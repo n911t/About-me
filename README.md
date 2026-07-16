@@ -41,7 +41,7 @@ I enjoy working with these technologies to build my projects:
 
 ### 📊 GitHub Stats | إحصائياتي
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=n911t&show_icons=true&theme=radical)
+![Mostapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=n911t&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n911t&layout=compact&theme=radical)
 
