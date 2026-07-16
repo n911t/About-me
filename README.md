@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/n911t/About-me/blob/main/image.gif?raw=true" alt="Mostapha Coding" width="300"/>
+  <img src="https://github.com/n911t/About-me/blob/main/image.gif?raw=true" alt="Mostapha Coding" width="500"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggCGvnPyg/giphy.gif" alt="Coding GIF" width="300"/>
