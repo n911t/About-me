@@ -42,7 +42,7 @@ I enjoy working with these technologies to build my projects:
 ### 📊 GitHub Stats | إحصائياتي
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n911t&show_icons=true&theme=radical&hide_border=true" alt="Mostapha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://t.m/n911t&show_icons=true&theme=radical&hide_border=true" alt="Mostapha's GitHub Stats" />
 </div>
 
 ---
