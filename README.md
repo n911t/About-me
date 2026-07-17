@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://github.com/n911t/About-me/blob/main/image.gif?raw=true" alt="Mostapha Coding" width="500"/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPyg/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://github.com/n911t/n911t/blob/main/image.gif?raw=true" alt="Mostapha Coding" width="500"/>
   
   # Hi there, I'm Mostapha 👋 | أهلاً بك، أنا مصطفى
   
@@ -44,10 +41,10 @@ I enjoy working with these technologies to build my projects:
 
 ### 📊 GitHub Stats | إحصائياتي
 
-![Mostapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=n911t&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n911t&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n911t&show_icons=true&theme=radical" alt="Mostapha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n911t&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
