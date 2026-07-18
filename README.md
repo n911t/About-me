@@ -37,14 +37,6 @@ I enjoy working with these technologies to build my projects:
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </div>
 
----
-
-### 📊 GitHub Stats | إحصائياتي
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n911t&show_icons=true&theme=radical" alt="Mostapha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n911t&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
