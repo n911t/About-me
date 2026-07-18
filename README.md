@@ -12,13 +12,13 @@
 
 <div dir="rtl">
 <b>أهلاً وسهلاً بك في مساحتي البرمجية!</b><br>
-أنا مصطفى، مطور وهاوي برمجة من العراق. أستمتع بتحويل الأفكار المعقدة إلى واقع ملموس وتطبيقات تعمل بكفاءة. أعتمد على الذكاء الاصطناعي لتسريع الإنجاز وتطوير أفكاري، وأركز بشكل كبير على بناء تطبيقات الويب التفاعلية، الألعاب التعليمية (باستخدام تقنيات الصوت في الجافا سكربت)، وتطبيقات إدارة الشبكات. أدمج دائماً بين شغفي في البرمجة وهندسة الإلكترونيات لإنشاء حلول متكاملة ومفيدة.
+أنا مصطفى، هاوي برمجة من العراق. أستمتع بتحويل الأفكار المعقدة إلى واقع ملموس وتطبيقات تعمل بكفاءة. أعتمد على الذكاء الاصطناعي لتسريع الإنجاز وتطوير أفكاري، وأركز بشكل كبير على بناء تطبيقات الويب التفاعلية، الألعاب التعليمية (باستخدام تقنيات الصوت في الجافا سكربت)، وتطبيقات إدارة الشبكات. أدمج دائماً بين شغفي في البرمجة وهندسة الإلكترونيات لإنشاء حلول متكاملة ومفيدة.
 </div>
 
 <br>
 
 **Welcome to my coding space!**  
-I'm Mostapha, a developer and programming enthusiast from Iraq. I enjoy turning complex ideas into reality and building efficient applications. I leverage AI to accelerate development and bring my ideas to life. My focus is mainly on building interactive web applications, educational games (utilizing Vanilla JS APIs), and network management platforms. I always combine my passion for coding with hardware electronics to build comprehensive and useful solutions.
+I'm Mostapha, a programming enthusiast from Iraq. I enjoy turning complex ideas into reality and building efficient applications. I leverage AI to accelerate development and bring my ideas to life. My focus is mainly on building interactive web applications, educational games (utilizing Vanilla JS APIs), and network management platforms. I always combine my passion for coding with hardware electronics to build comprehensive and useful solutions.
 
 ---
 
